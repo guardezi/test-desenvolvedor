@@ -25,9 +25,13 @@ Você deve usar alguns desses bancos de dados:
 - PostgreSQL
 - MongoDB
 
-(bonuts) testes de unidade e integração.
+(bonus) testes de unidade e integração.
 
 O que vamos avaliar:
-Código limpo, cobertura de testes, design patterns, arquitetura, performance, segurança, dominio da tecnologia, entendimento do desafio.
+Código limpo, cobertura de testes, design patterns, arquitetura, performance, segurança, dominio da tecnologia, entendimento do desafio, uso do Git.
 
 Você pode deixar a sua aplicação em um ambiente cloud free (AWS, Heroku, Digital Ocean...) isso com certeza será um diferencial!
+
+Você pode usar qualquer framework ou ferramenta disponivel fique a vontade para sugerir.
+
+
